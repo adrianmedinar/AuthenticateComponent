@@ -1,9 +1,0 @@
-C:\Proyectos\Nuevo_ETC\BackEnd\Axitiy.Security.Core\bin\Debug\netcoreapp2.1\Axity.Security.Core.deps.json
-C:\Proyectos\Nuevo_ETC\BackEnd\Axitiy.Security.Core\bin\Debug\netcoreapp2.1\Axity.Security.Core.dll
-C:\Proyectos\Nuevo_ETC\BackEnd\Axitiy.Security.Core\bin\Debug\netcoreapp2.1\Axity.Security.Core.pdb
-C:\Proyectos\Nuevo_ETC\BackEnd\Axitiy.Security.Core\obj\Debug\netcoreapp2.1\Axity.Security.Core.csprojAssemblyReference.cache
-C:\Proyectos\Nuevo_ETC\BackEnd\Axitiy.Security.Core\obj\Debug\netcoreapp2.1\Axity.Security.Core.csproj.CoreCompileInputs.cache
-C:\Proyectos\Nuevo_ETC\BackEnd\Axitiy.Security.Core\obj\Debug\netcoreapp2.1\Axity.Security.Core.AssemblyInfoInputs.cache
-C:\Proyectos\Nuevo_ETC\BackEnd\Axitiy.Security.Core\obj\Debug\netcoreapp2.1\Axity.Security.Core.AssemblyInfo.cs
-C:\Proyectos\Nuevo_ETC\BackEnd\Axitiy.Security.Core\obj\Debug\netcoreapp2.1\Axity.Security.Core.dll
-C:\Proyectos\Nuevo_ETC\BackEnd\Axitiy.Security.Core\obj\Debug\netcoreapp2.1\Axity.Security.Core.pdb
